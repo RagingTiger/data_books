@@ -1,0 +1,3 @@
+[submodule "DeepLearningBook"]
+	path = DeepLearningBook
+	url = ./DeepLearningBook
